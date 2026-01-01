@@ -1,4 +1,4 @@
 # us_visa_prediction
 
-### Download Anaconda
-### Use VsCode
+- Download Anaconda
+- Use VsCode
